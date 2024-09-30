@@ -1,16 +1,10 @@
 
-```markdown
+
 # Blackjack Game
 
 Welcome to the Blackjack Game! This is a simple command-line implementation of the classic card game Blackjack, where players try to get a hand value as close to 21 as possible without exceeding it.
 
-## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Gameplay](#gameplay)
-- [License](#license)
 
 ## Features
 
@@ -23,21 +17,7 @@ Welcome to the Blackjack Game! This is a simple command-line implementation of t
 
 To run the Blackjack game, you need to have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 
-### Clone the repository
 
-```bash
-git clone https://github.com/your-username/blackjack-game.git
-cd blackjack-game
-```
-
-### Run the game
-
-1. Make sure you are in the project directory.
-2. Run the game using Python:
-
-```bash
-python blackjack.py
-```
 
 ## How to Play
 
